@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephmoatswheeler
-- 👀 I’m interested in ... Recruiting Software Engineers, Software Developers, DevOps, Salesforce Developers,
+- 👀 I’m interested in ... Senior Technical Recruiting
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...via email at stwheele@allegisgroup.com or 410-540-7108
